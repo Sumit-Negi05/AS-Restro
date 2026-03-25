@@ -89,21 +89,7 @@ AS Restro is a desktop food ordering system built with Java Swing. It features a
 </table>
 
 ---
-
-## 🚀 How To Run
-
-### 📦 Prerequisites
-
-<img src="https://img.shields.io/badge/JDK-8_or_higher-007396?style=flat-square&logo=java&logoColor=white" />
-
----
-👨‍💻 Author
-Sumit Negi
----
-📄 License
-Licensed under the MIT License
 ---
 <div align="center">
 <img src="logo.svg" width="120" />
-⭐ Simple • Fast • Offline-Ready
 </div>
